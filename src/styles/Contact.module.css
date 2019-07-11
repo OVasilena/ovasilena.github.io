@@ -1,0 +1,23 @@
+li > i {
+    float: left;
+    margin-left: 20px;
+    line-height: 24px;
+}
+
+li > i > p {
+    padding-left: 52px;
+}
+
+.nav {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+ul {
+    margin-top: 0;
+}
+
+ul {
+    display: block;
+}
